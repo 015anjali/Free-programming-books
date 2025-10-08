@@ -529,6 +529,21 @@ export const books: Book[] = [
     level: "Advanced",
     tags: ["Networking", "TCP/IP", "Protocols", "Deep Dive"]
   },
+  {
+  id: "networking-3",
+  title: "Computer Networks",
+  author: "Andrew S. Tanenbaum",
+  category: "Computer Networking",
+  language: "General",
+  pages: 945,
+  year: 2021,
+  level: "Advanced",
+  description: "Covers fundamental concepts of computer networking, protocols, and architectures.",
+  downloadLink: "https://github.com/avinash201199/Free-programming-books/tree/main/Computer%20Networking",
+  tags: ["Networking", "Protocols", "Advanced"],
+  featured: false
+  },
+
 
   // Interview Preparation
   {
